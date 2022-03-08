@@ -1,0 +1,29 @@
+.active {
+  color: #5ba600;
+}
+.hovertext {
+  color: rgb(207, 38, 38);
+}
+.hovertext:hover {
+  color: rgb(9, 116, 63);
+}
+.navbar-area
+  .nav-container
+  .navbar-collapse
+  .navbar-nav
+  li.menu-item-has-children
+  .sub-menu
+  li
+  a {
+  color: rgb(14, 1, 1);
+}
+/* .navbar-area
+  .nav-container:hover
+  .navbar-collapse:hover
+  .navbar-nav:hover
+  li:hover.menu-item-has-children:hover
+  .sub-menu:hover
+  li:hover
+  a:hover {
+  color: rgb(32, 152, 156);
+} */

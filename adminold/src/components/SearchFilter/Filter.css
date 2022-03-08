@@ -1,0 +1,129 @@
+.search-bar {
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 0 0 1rem rgb(0 0 0 / 15%);
+}
+.bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+  overflow: hidden;
+}
+.search-bar .form-group {
+  position: relative;
+}
+.rounded-pill {
+  border-radius: 15px;
+}
+
+.input-label-absolute-right .form-control {
+  padding-right: 2rem;
+}
+.search-bar .form-control {
+  height: calc(1.6em + 1rem + 2px);
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  /* padding: 0.375rem 0.75rem; */
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.4rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.btn {
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+/* .search-bar .form-control {
+  height: calc(1.6em + 0.75rem + 2px);
+  padding: 10px 20px;
+}
+.search-bar .bootstrap-select {
+  padding: 0;
+}
+.form-group .bootstrap-select {
+  margin-bottom: 0;
+}
+select.selectpicker {
+  visibility: hidden;
+}
+select {
+  word-wrap: normal;
+}
+
+.search-bar .bootstrap-select button {
+  display: block;
+  padding: 10px 20px;
+}
+
+.bootstrap-select > .dropdown-toggle {
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  text-align: right;
+  white-space: nowrap;
+}
+.bootstrap-select .dropdown-toggle .filter-option {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-top: inherit;
+  padding-right: inherit;
+  padding-bottom: inherit;
+  padding-left: inherit;
+  height: 100%;
+  width: 100%;
+  text-align: left;
+}
+
+.bootstrap-select .dropdown-menu {
+  min-width: 100%;
+  font-size: 0.9rem;
+  box-sizing: border-box;
+}
+
+.dropdown-menu {
+  box-shadow: 0 0rem 1.5rem rgb(0 0 0 / 18%);
+}
+.dropdown-menu {
+  position: absolute;
+  z-index: 1000;
+  display: none;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0;
+  font-size: 1rem;
+  color: #212529;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0 solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.4rem;
+}
+
+.btn {
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.rounded-pill {
+  border-radius: 50rem !important;
+}
+.h-100 {
+  height: 100% !important;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #4e66f8;
+  border-color: #4e66f8;
+} */

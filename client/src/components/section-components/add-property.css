@@ -1,0 +1,5 @@
+@media screen and (max-width: 1024px) and (min-width: 1000px) {
+  .main_headings_of_pages > h2 {
+    margin-top: 30px;
+  }
+}

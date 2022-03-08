@@ -1,0 +1,12 @@
+.payment {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+  display: grid;
+  place-items: center;
+}
+.wrapper {
+  background-color: lightgray;
+  padding: 100px;
+  border-radius: 10px;
+}
